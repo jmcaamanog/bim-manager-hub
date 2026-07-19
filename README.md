@@ -1,16 +1,8 @@
 # BIM Manager Hub 🏢📊
 
-![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=flat-square)
-![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
-![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
-![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=flat-square)
-![BIM](https://img.shields.io/badge/BIM-IFC%20%2F%20openBIM-009688?style=flat-square)
-![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=flat-square)
-![Hardware](https://img.shields.io/badge/Hardware---grey?style=flat-square)
-![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
-![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![Stars](https://img.shields.io/github/stars/jmcaamanog/bim-manager-hub?style=flat-square&color=yellow&logo=github)
-![License](https://img.shields.io/github/license/jmcaamanog/bim-manager-hub?style=flat-square&color=green)
+| 🏗️ Perfil & ConTech | 📈 Repositorio & Enlaces |
+| :--- | :--- |
+| ![Profesión](https://img.shields.io/badge/Profesi%C3%B3n-Arquitectos%20T%C3%A9cnicos-2e7d32?logo=micro%3Abit&logoColor=white&style=plastic) <br> ![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=plastic) <br> ![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=plastic) <br> ![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=plastic) <br> ![BIM](https://img.shields.io/badge/BIM-IFC%20%2F%20openBIM-009688?style=plastic) | ![Maker](https://img.shields.io/badge/Maker-Software-red?logo=makerbot&style=plastic) <br> ![Hardware](https://img.shields.io/badge/Hardware---grey?style=plastic) <br> ![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=plastic) <br> ![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=plastic) <br> ![Stars](https://img.shields.io/github/stars/jmcaamanog/bim-manager-hub?style=plastic&color=yellow&logo=github) <br> ![License](https://img.shields.io/github/license/jmcaamanog/bim-manager-hub?style=plastic&color=green) |
 
 (Arquitecto Técnico_JMC) Plataforma de escritorio integral para la gestión y administración en entornos BIM. Desarrollada en Python, combina un robusto backend de bases de datos relacionales con analítica de datos y una interfaz gráfica moderna, pensada para centralizar el flujo de trabajo de un BIM Manager.
 
@@ -49,9 +41,8 @@
 
 ## 👨‍💻 Autor
 
-Jose Manuel Caamaño González | Arquitecto Técnico & BIM Manager.
-Digital Product Lead | ConTech & Digital Twin SaaS | BIM, Energy Modeling & Sustainability | Data Analytics (SQL, Power BI)
+**Jose Manuel Caamaño González** | Arquitecto Técnico & BIM Manager
+Digital Product Lead | ConTech & Digital Twin SaaS | Data Analytics (SQL, Power BI)
 
 Hecho con código y café desde A Coruña. ☕
-
-Jose Manuel Caamaño González | [LinkedIn](https://www.linkedin.com/in/jmcaamanog/)
+[LinkedIn](https://www.linkedin.com/in/jmcaamanog/) · [Web](https://jmcaamanog.pages.dev)
